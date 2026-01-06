@@ -1,4 +1,7 @@
 <?php
-// formulaire_input::add_Client($_POST);
-// var_dump($_POST);
-echo"lol";
+
+namespace gestion_et_livraison\Service;
+
+class hy{
+    public $lol='lol';
+}
